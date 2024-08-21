@@ -1,1 +1,1 @@
-# covid-image-classification
+# Covid Image Prediction 
