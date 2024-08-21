@@ -1,1 +1,2 @@
 # Covid Image Prediction 
+The COVID-19 pandemic has emphasized the need for rapid and accurate diagnostic tools. This project aims to develop a deep learning-based system for classifying COVID-19 infection from medical images, such as chest X-rays.By leveraging advanced neural network architectures, like Alexnet. The project’s goal is to enhance diagnostic capabilities, support healthcare providers, and contribute to more effective management and treatment of COVID-19 through innovative deep learning techniques.
