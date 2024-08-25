@@ -13,3 +13,25 @@ The dataset consist of three classes:
 - **Viral Pneumonia**: X-ray images of patients with viral pneumonia.
 - **Normal**: X-ray images of healthy patients.
 
+## Model Architecture
+
+This project make use of Alexnet, the convolutional neural network model already proven effective in image classification tasks.
+The network consist of convolutional layers followed by fully connected layers.
+
+## Training
+
+The model trained on kaggle cpu.
+
+### HyperParams
+
+- **Optimizer**: Adam
+- **Loss Function**: Sparse Categorical Crossentropy (Multi Classification)
+- **Batch Size**: 32
+- **Learning Rate**: 0.001
+
+## Evaluation
+
+The above hyper parameter have used for training and the model was evaluated on testing data, acheiving an accuracy of **83%**.
+
+
+
