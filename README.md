@@ -1,2 +1,15 @@
-# Covid Image Prediction 
-The COVID-19 pandemic has emphasized the need for rapid and accurate diagnostic tools. This project aims to develop a deep learning-based system for classifying COVID-19 infection from medical images, such as chest X-rays.By leveraging advanced neural network architectures, like Alexnet. The project’s goal is to enhance diagnostic capabilities, support healthcare providers, and contribute to more effective management and treatment of COVID-19 through innovative deep learning techniques.
+# Covid Image Classification
+
+## Overview
+
+This project is a deep learning application for classifying chest X-ray images into three categories: Covid-19, Viral Pneumonia and Normal.
+The classification model using deep learning techniques to differentiate between three classes based on the provided dataset.
+
+## Dataset
+
+The dataset used on this project is available on [Kaggle](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+The dataset consist of three classes:
+- **Covid-19**: X-ray images of patients with covid-19.
+- **Viral Pneumonia**: X-ray images of patients with viral pneumonia.
+- **Normal**: X-ray images of healthy patients.
+
